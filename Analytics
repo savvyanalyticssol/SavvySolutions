@@ -14,8 +14,8 @@
   --teal-pale: rgba(14,124,123,0.08);
   --gold: #14B8A6;
   --gold-light: #38e5d2;
-  --gold-pale: rgba(201,168,76,0.1);
-  --cream: ##FDFCFA;
+  --gold-pale: #38e5d2;
+  --cream: #38e5d2;
   --warm-white: #fdfcfa;
   --light-gray: #e8e4dc;
   --mid-gray: #6b7280;
